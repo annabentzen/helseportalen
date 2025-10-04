@@ -1,0 +1,6 @@
+@Helseportalen.Api_HostAddress = http://localhost:5166
+
+GET {{Helseportalen.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
